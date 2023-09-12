@@ -11,7 +11,7 @@ function App() {
 			<div className='app-container'>
 				<Routes>
 					<Route 
-					  path='/' 
+					  path='/react-clicker-kingdom' 
 						element={<Main />} 
 					/>
 					<Route 
