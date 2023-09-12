@@ -1,7 +1,7 @@
 {
   "name": "react-clicker-kingdom",
   "version": "0.1.0",
-	"homepage": "https://jabalicraig.github.io/react-clicker-kingdom",
+	"homepage": "https://jabaliCraig.github.io/react-clicker-kingdom",
   "private": true,
   "dependencies": {
     "@testing-library/react": "^13.4.0",
